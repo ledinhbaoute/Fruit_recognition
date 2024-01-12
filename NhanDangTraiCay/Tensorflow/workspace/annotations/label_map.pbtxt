@@ -1,0 +1,8 @@
+item { 
+	name:'dua_hau'
+	id:1
+}
+item { 
+	name:'oi'
+	id:2
+}

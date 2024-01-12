@@ -1,0 +1,3 @@
+PYTHONPATH
+
+C:\TF2_ObjDetect_API\Tensorflow\models;C:\TF2_ObjDetect_API\Tensorflow\models\research;C:\TF2_ObjDetect_API\Tensorflow\models\research\slim
